@@ -3,5 +3,23 @@
     "dotenv": "^16.0.1",
     "mysql2": "^2.3.3",
     "sequelize": "^6.21.4"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateB98/E-Commerce-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NateB98/E-Commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/NateB98/E-Commerce-Back-End#readme",
+  "description": ""
 }
